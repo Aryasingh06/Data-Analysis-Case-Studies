@@ -8,7 +8,7 @@ NumPy, Pandas, and Data Visualization libraries.
 - Python functions & dictionary
 - Simulates basic banking operations
 
-### Car Price Analysis (EDA)
+### Car Price Analysis 
 - Data visualization using Seaborn & Matplotlib
 - Insights on fuel type, pricing, and transmission
 
